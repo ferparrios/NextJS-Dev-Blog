@@ -1,3 +1,13 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+body {
+  background: rgb(184,191,195);
+background: linear-gradient(90deg, rgba(184,191,195,1) 0%, rgba(50,44,44,0.4514180672268907) 100%);
+
+}
+
+h1, h2, h3, h4, time{
+  font-family: 'Aldrich', sans-serif;
+}
